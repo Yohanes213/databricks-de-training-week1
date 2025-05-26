@@ -1,0 +1,31 @@
+TransactionID,TransactionDate,CustomerID,Product,ProductCategory,Quantity,SaleAmount,PaymentMethod,StoreLocation
+TID001,2023-01-15 17:49:00,CUST085,Laptop Pro,Electronics,3,2528.43,Credit Card,Los Angeles
+TID002,2023-01-16 17:57:00,CUST102,Wireless Mouse,Electronics,2,2088.02,,Online
+TID003,2023-01-17 13:50:00,CUST301,Office Chair,Furniture,2,864.66,PayPal,Los Angeles
+TID004,2023-01-18 16:06:00,CUST102,Coffee Maker,Appliances,2,2688.94,PayPal,Online
+TID005,2023-01-19 11:33:00,CUST301,Data Science Intro,Books,3,1949.52,Gift Card,Chicago
+TID006,2023-01-20 14:04:00,CUST102,Smartphone X,Electronics,2,2235.1,Cash,Online
+TID007,2023-01-21 16:43:00,CUST007,External Hard Drive,Electronics,1,1357.63,Cash,Los Angeles
+TID008,2023-01-22 12:27:00,CUST102,Desk Lamp,Furniture,1,1099.0,,Online
+TID009,2023-01-23 11:00:00,CUST301,Toaster,Appliances,3,1308.99,Gift Card,Online
+TID010,2023-01-24 16:37:00,CUST210,Advanced Python,Books,1,1499.83,PayPal,Los Angeles
+TID011,2023-01-25 16:52:00,CUST123,Gaming Keyboard,Electronics,3,2193.93,,Los Angeles
+TID012,2023-01-26 12:22:00,CUST999,Bookshelf,Furniture,1,181.81,Cash,Online
+TID013,2023-01-27 09:42:00,CUST085,Smart Watch,Electronics,3,2057.37,PayPal,Los Angeles
+TID014,2023-01-28 13:13:00,CUST102,Blender,Appliances,2,269.32,Debit Card,New York
+TID015,2023-01-29 16:16:00,CUST085,Learning Spark,Books,3,1362.6299999999999,Debit Card,Online
+TID016,2023-01-30 16:14:00,CUST301,Monitor,Electronics,2,2837.46,Debit Card,Online
+TID017,2023-01-31 10:25:00,CUST123,Ergonomic Mouse,Electronics,1,1051.28,Debit Card,Online
+TID018,2023-02-01 13:59:00,CUST450,Filing Cabinet,Furniture,1,711.12,Gift Card,New York
+TID019,2023-02-02 14:10:00,CUST450,Headphones,Electronics,1,634.28,Gift Card,Online
+TID020,2023-02-03 12:32:00,CUST301,Air Fryer,Appliances,1,1476.55,Cash,New York
+TID021,2023-02-04 16:56:00,CUST007,T-Shirt,Clothing,2,1123.56,Credit Card,Online
+TID022,2023-02-05 09:35:00,CUST123,Running Shoes,Footwear,1,1165.54,PayPal,Los Angeles
+TID023,2023-02-06 14:20:00,CUST450,Water Bottle,Accessories,2,2714.02,PayPal,Chicago
+TID024,2023-02-07 10:53:00,CUST102,Backpack,Accessories,1,257.99,Debit Card,New York
+TID025,2023-02-08 09:26:00,CUST450,Yoga Mat,Sports,3,1839.1799999999998,PayPal,Online
+TID026,2023-02-09 14:59:00,CUST450,Desk Organizer,Furniture,3,2599.89,,New York
+TID027,2023-02-10 15:57:00,CUST999,HDMI Cable,Electronics,1,207.25,Debit Card,Chicago
+TID028,2023-02-11 15:07:00,CUST999,Graphic Novel,Books,3,526.11,PayPal,Chicago
+TID029,2023-02-12 17:57:00,CUST999,Standing Desk,Furniture,2,2342.98,,New York
+TID030,2023-02-13 12:17:00,CUST999,Microwave Oven,Appliances,3,154.64999999999998,,Online
