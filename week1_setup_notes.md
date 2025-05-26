@@ -13,6 +13,8 @@ I created a cluster named `my-first-cluster` in the East US region with the foll
 
 Below is a screenshot of the configuration for `my-first-cluster`:
 
+![Screenshot](https://github.com/user-attachments/assets/5dd2a7a0-902e-4b3c-b004-b6ca05020b3d)
+
 
 ## Data Exploration Findings
 
